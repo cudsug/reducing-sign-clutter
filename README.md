@@ -17,7 +17,19 @@ Comprehensiveness of data profiling for existing sign data to identify outliers 
 
 ## Data Details
 
+### urbana_traffic_signs.csv
+
+The Urbana traffic sign data includes fields related to the street address, condition, and relevant text for the sign.
+
+### urbana_traffic_sign_photos_mapping.csv
+
+The mapping files give information about the Urbana traffic sign photos.  The photos can be downloaded from this Dropbox link: TBD.
+
+
 ### champaign_traffic_signs.csv
+
+The traffic sign data for Champaign includes information about location (latitude/longitude) and the text that is on the sign.
+
 | Field Name | Description |
 | ---------- | ----------- |
 | X | latitude |
