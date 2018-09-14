@@ -23,7 +23,7 @@ The Urbana traffic sign data includes fields related to the street address, cond
 
 ### urbana_traffic_sign_photos_mapping.csv
 
-The mapping files give information about the Urbana traffic sign photos.  The photos can be downloaded from this Dropbox link: TBD.
+The mapping files give information about the Urbana traffic sign photos.  The photos can be downloaded from this Dropbox link: https://www.dropbox.com/s/krq97vhtdusuz50/urbana_traffic_sign_photo_files.zip?dl=0.
 
 
 ### champaign_traffic_signs.csv
