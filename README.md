@@ -28,7 +28,8 @@ The mapping files give information about the Urbana traffic sign photos.  The ph
 
 ### champaign_traffic_signs.csv
 
-The traffic sign data for Champaign includes information about location (latitude/longitude) and the text that is on the sign.
+The traffic sign data for Champaign includes information about location (latitude/longitude) and the text that is on the sign.  Details on how to use this dataset leveraging Wolfram One is here: https://datarepository.wolframcloud.com/resources/City-of-Champaign-Street-Signs.
+
 
 | Field Name | Description |
 | ---------- | ----------- |
