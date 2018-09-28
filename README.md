@@ -4,7 +4,7 @@
 Urbana Public Works
  
 ## Local Sponsor
-John Collins, Streets and Operations Division Director for Urbana Public Works
+John Collins, Operations Division Manager for Urbana Public Works
 
 ## Overview
 The Urbana Public Works Department promotes growth in the City of Urbana by maintaining, constructing and improving the City's infrastructure.  We preserve the quality of life for the citizens, visitors, businesses and government agencies (both within the City and in the surrounding areas).  Our department strives to provide prompt and courteous service in a professional, efficient and cost-effective manner to safeguard the safety, health and welfare of those we serve.
